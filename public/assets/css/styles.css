@@ -1,0 +1,9 @@
+.action-container {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+
+.action-container .btn.btn-action {
+    border: none;
+}
